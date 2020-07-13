@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a really cool project for @barnardos
-- I’m on Twitter https://twitter.com/n14m0r
+- 👷 I’m currently working on a really cool project for @barnardos
+- 🐦 I’m on Twitter https://twitter.com/n14m0r
 - and LinkedIn https://www.linkedin.com/in/niamor/
 - 📖 I like to read https://goodreads.com/niam0r
 - 🌱 I’m currently learning ...
