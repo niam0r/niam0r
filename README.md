@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 👷 I’m currently working on a really cool project for @barnardos
-- 🐦 I’m on Twitter https://twitter.com/n14m0r
-- and LinkedIn https://www.linkedin.com/in/niamor/
-- 📖 I like to read https://goodreads.com/niam0r
+- 🐦 I’m on Twitter [twitter.com/n14m0r](https://twitter.com/n14m0r)
+- and LinkedIn [linkedin.com/in/niamor](https://www.linkedin.com/in/niamor)
+- 📖 I like to read [goodreads.com/niam0r](https://goodreads.com/niam0r)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
