@@ -11,5 +11,3 @@
 - 📫 How to reach me: romain@niamor.me
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
-
-![.](https://profile-counter.glitch.me/{niam0r}/count.svg)
